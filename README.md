@@ -1,6 +1,6 @@
-GOC 工具包 / GOC Tools
+# GOC 工具包 / GOC Tools
 
-英文全称为 GOC-ModdingToolsForGTA5
+英文全称为 *GOC-ModdingToolsForGTA5*
 
 
 
@@ -14,7 +14,7 @@ The goal of this toolkit is to solve the difficulties encountered in the product
 
 This open source project was initiated by GOC Modding Team member Tinybox ( tinyboxxx@126.com , QQ1179245879 ), and other members of the GOC Modding Team helped maintain and add content. Each tool in the toolkit was contributed by a different author.
 
-主要内容 / main content
+## 主要内容 / main content
 
 本工具包初步包含内容如下：
 
@@ -33,7 +33,7 @@ The preliminary contents of this toolkit are as follows:
 
 
 
-授权许可 / License
+## 授权许可 / License
 
 本工具包开源免费，允许国内外MOD作者免费使用，但必须注明本来源及相应作者。
 
@@ -45,8 +45,8 @@ This toolkit is open source and free, allowing all MOD authors to use it free of
 
 All content of this tool may not be used for any form of commercial use (paid or donated).
 
-关于GOC / About GOC
+## 关于GOC / About GOC
 
-GOC 全称为 'GTA OF CHINA' Modding Team ，由WJA （ http://wjagta.blog.163.com/ ）发起， 主要作品以GTA系列为主，包含了 GTA:SA 至 GTA:V 的车辆、人物模型。
+GOC 全称为 *'GTA OF CHINA' Modding Team* ，由WJA （ <http://wjagta.blog.163.com/> ）发起， 主要作品以GTA系列为主，包含了 GTA:SA 至 GTA:V 的车辆、人物模型。
 
-GOC is initial letters of 'GTA OF CHINA' Modding Team and is launched by WJA ( http://wjagta.blog.163.com/ ). Our works are mainly GTA series, including GTA:SA to GTA:V vehicles and skin model.
+GOC is initial letters of *'GTA OF CHINA' Modding Team* and is launched by WJA ( http://wjagta.blog.163.com/ ). Our works are mainly GTA series, including GTA:SA to GTA:V vehicles and skin model.
