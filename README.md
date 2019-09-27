@@ -39,8 +39,6 @@ The preliminary contents of this toolkit are as follows:
 
 本工具所有内容不得用于任何形式的商业用途（付费或捐助打赏）。
 
-
-
 This toolkit is open source and free, allowing all MOD authors to use it free of charge, but must indicate this source and the corresponding author.
 
 All content of this tool may not be used for any form of commercial use (paid or donated).
